@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/tinku/AndroidStudioProjects/DeviceScanActivity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tile.9.png",
+        "source": "/Users/tinku/AndroidStudioProjects/DeviceScanActivity1/app/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/tinku/AndroidStudioProjects/DeviceScanActivity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/tinku/AndroidStudioProjects/DeviceScanActivity1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

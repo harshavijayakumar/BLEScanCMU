@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tinku/AndroidStudioProjects/DeviceScanActivity1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2dcb1f183cc1bdf92cfc313662da59e928924126">
+        <dex dex="/Users/tinku/AndroidStudioProjects/DeviceScanActivity1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0ff56229ac33cde687c9d54b29e8a0bd48ea16a5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tinku/AndroidStudioProjects/DeviceScanActivity1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3a2f267ca84b8b768d3f1811ac47e3ea878cff00">
+        <dex dex="/Users/tinku/AndroidStudioProjects/DeviceScanActivity1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_783f241feb1a479883fe6c53d2b0739fd3af48e3/classes.dex" />
+    </item>
+
+</items>

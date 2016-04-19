@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="769303764692180" >
+
+    <task
+        name="javac"
+        duration="716" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="292" />
+    <task
+        name="verifier"
+        duration="22" />
+
+    <artifact
+        location="/Users/tinku/AndroidStudioProjects/DeviceScanActivity1/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="769303764692180" >
+        <artifact
+            location="/Users/tinku/AndroidStudioProjects/DeviceScanActivity1/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

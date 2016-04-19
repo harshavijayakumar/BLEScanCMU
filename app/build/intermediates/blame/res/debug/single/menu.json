@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/tinku/AndroidStudioProjects/DeviceScanActivity1/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/tinku/AndroidStudioProjects/DeviceScanActivity1/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/tinku/AndroidStudioProjects/DeviceScanActivity1/app/build/intermediates/res/merged/debug/menu/gatt_services.xml",
+        "source": "/Users/tinku/AndroidStudioProjects/DeviceScanActivity1/app/src/main/res/menu/gatt_services.xml"
+    }
+]
